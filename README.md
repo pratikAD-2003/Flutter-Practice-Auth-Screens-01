@@ -1,16 +1,5 @@
 # auth_ui
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1080" height="2400" alt="regi" src="https://github.com/user-attachments/assets/e00dc7b2-879e-479b-85e8-eecafd474b47" />
+<img width="1080" height="2400" alt="login" src="https://github.com/user-attachments/assets/2e64f4bf-c83c-423a-8e2a-44f380ffacd3" />
+<img width="1080" height="2400" alt="forget_p" src="https://github.com/user-attachments/assets/8708903e-22ec-4294-b43c-08731161aa4a" />
+<img width="1080" height="2400" alt="otp" src="https://github.com/user-attachments/assets/f84abc87-907c-48a6-8782-be673e1e918d" />
