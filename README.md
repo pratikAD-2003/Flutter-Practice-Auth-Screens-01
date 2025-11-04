@@ -1,4 +1,5 @@
 ### Auth UI Practice - 01
+Figma Link - https://www.figma.com/design/8RWorqRtKqrOljL6Dsy0jx/Login-Page-UI--Community-?m=auto&t=EbJqX7MIgpUpfcnr-6
 
 | Register | Login | Forget Password | OTP |
 |-----------|--------|-----------------|-----|
